@@ -1,2 +1,2 @@
 # Japan_Parralax
-A parralax simply realized with HTML/CSS.
+A parallax simply realized with HTML/CSS.
